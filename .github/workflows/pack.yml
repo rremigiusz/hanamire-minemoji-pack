@@ -8,7 +8,7 @@ permissions:
   id-token: write
 
 env:
-  PACK_NAME: minemoji
+  PACK_NAME: hanamire-minemoji-pack
 
 jobs:
     generate-pack:
